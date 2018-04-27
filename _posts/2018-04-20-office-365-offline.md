@@ -3,15 +3,7 @@ layout: post
 title: Hướng dẫn đăng ký office 365 dùng offline
 subtitle: office 365 offline
 bigimg: /img/path.jpg
-
-
-
-
-
-
-
-
-
+hidetable
 tags: [hướng dẫn]
 ---
 
