@@ -3,7 +3,7 @@ layout: post
 title: Key và link download windows, office tất cả các phiên bản từ trang chủ Microsoft
 subtitle: Key và link download
 bigimg: /img/path.jpg
-tags: [key, soft]
+tag: [key, soft]
 ---
 
 **1. Key windows và office**
