@@ -3,7 +3,7 @@ layout: post
 title: Hướng dẫn đăng ký office 365 dùng offline
 subtitle: office 365 offline
 bigimg: /img/path.jpg
-hidetag: [hướng dẫn]
+tags: [hướng dẫn]
 ---
 
 **1.	Cách reg của trường california**
